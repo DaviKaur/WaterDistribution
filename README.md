@@ -6,10 +6,10 @@ Compiler: GCC
 
 Command to compile this:
 
-g++ pipes_app.cpp -o pipe
+g++ Pipes_app.cpp -o Pipe
 
 To run, simply type:
 
-./pipe
+./Pipe
 
-*Executable File "pipe" is also available here.
+*Executable File "Pipe" is also available here.

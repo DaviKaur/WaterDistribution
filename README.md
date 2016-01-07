@@ -2,14 +2,14 @@ WaterDistribution
 =================
 This program is designed by using C++ coding Launguage
 
-Compiler: GCC
+Compiler: GNU G++
 
 Command to compile this:
 
-g++ Pipes_app.cpp -o Pipe
+g++ Pipes_app.cpp -o Pipes
 
 To run, simply type:
 
-./Pipe
+./Pipes
 
-*Executable File "Pipe" is also available here.
+*Executable File "Pipes" is also available here.
